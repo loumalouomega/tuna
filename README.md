@@ -35,7 +35,7 @@ profile](https://docs.python.org/3/using/cmdline.html#envvar-PYTHONPROFILEIMPORT
 with
 
 ```
-python -X import time yourfile.py 2> import.log
+python -X importtime yourfile.py 2> import.log
 ```
 
 and show it with
